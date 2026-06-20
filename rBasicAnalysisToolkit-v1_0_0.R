@@ -1,5 +1,5 @@
 # ==============================================================================
-# PROJECT: rBasicAnalysisToolkit(rBAT) -- DATE: 15.05.2026 -- AUTHOR: wisaimtiac
+# rBasicAnalysisToolkit(rBAT) v1_0_0 by wisaimtiac
 
 # ██████╗    /\   {}_{}   /\       A reusable collection of R-code snippets
 # ██╔══██╗  /  \__(ö ö)__/  \      to clean, explore and analyze data from e.g.:
