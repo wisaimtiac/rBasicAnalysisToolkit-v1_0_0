@@ -1,13 +1,6 @@
 ## R - Basic Analysis Toolkit v1_0_0
 By wisaimtiac
 
-██████╗    /\   {}_{}   /\       
-██╔══██╗  /  \__(ö ö)__/  \      
-██████╔╝ /    ,_|\./|_,    \     
-██╔══██╗ ~~~~'  |   |  '~~~~   
-██║  ██║        \___/         
-╚═╝  ╚═╝        /   \         
-
 R template for cleaning, exploring, and analyzing tabular data.
 Runs end-to-end on simulated data — or your own CSV-file.
 
